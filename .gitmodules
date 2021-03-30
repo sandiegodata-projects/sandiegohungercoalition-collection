@@ -31,3 +31,6 @@
 [submodule "cde.ca.gov-schools"]
 	path = cde.ca.gov-schools
 	url = https://github.com/metatab-packages/cde.ca.gov-schools.git
+[submodule "sandiegohungercoalition.org-redshift-source"]
+	path = sandiegohungercoalition.org-redshift-source
+	url = https://github.com/metatab-packages/sandiegohungercoalition.org-redshift-source.git
