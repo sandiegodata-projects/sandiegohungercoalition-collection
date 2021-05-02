@@ -34,3 +34,9 @@
 [submodule "sandiegohungercoalition.org-redshift-source"]
 	path = sandiegohungercoalition.org-redshift-source
 	url = https://github.com/metatab-packages/sandiegohungercoalition.org-redshift-source.git
+[submodule "sandiegohungercoalition.org-database"]
+	path = sandiegohungercoalition.org-database
+	url = https://github.com/metatab-packages/sandiegohungercoalition.org-database.git
+[submodule "sandiegohungercoalition.org-nslp"]
+	path = sandiegohungercoalition.org-nslp
+	url = https://github.com/metatab-packages/sandiegohungercoalition.org-nslp.git
